@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of forumaker/magicbb.** Not for installation: use [Packagist](https://packagist.org/packages/forumaker/magicbb) or the [upstream repository](https://github.com/forumaker/magicbb).
 
-**0** versions archived · Latest: [`2.5.1`](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.5.1) · License: `MIT` · Flarum: `^2.0`
+**13** versions archived · Latest: [`2.5.1`](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.5.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-01-01 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v1.0.0) |
+| `1.4.0` | 2026-05-18 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v1.4.0) |
+| `1.4.4` | 2026-05-18 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v1.4.4) |
+| `2.0.0` | 2026-01-01 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.0.0) |
+| `2.2.0` | 2026-04-25 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.2.0) |
+| `2.2.2` | 2026-04-25 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.2.2) |
+| `2.3.0` | 2026-05-04 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.3.0) |
+| `2.4.0` | 2026-05-18 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.4.0) |
+| `2.4.4` | 2026-05-18 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.4.4) |
+| `2.4.5` | 2026-07-10 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicbb/tree/archive/v2.4.5) |
+
+[View all 13 versions](https://github.com/flarchive/forumaker-magicbb/tags)
 
 Catalog entry: [packages/forumaker-magicbb.json](https://github.com/flarchive/archive-index/blob/main/packages/forumaker-magicbb.json)
 
